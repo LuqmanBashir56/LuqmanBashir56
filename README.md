@@ -40,6 +40,5 @@
 
 
 
-## 📫 Connect With Me![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-
+## 📫 Connect With Me ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 (https://www.linkedin.com/in/luqman-bashir-42263533b)
